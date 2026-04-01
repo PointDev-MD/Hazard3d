@@ -1,0 +1,3 @@
+/workspaces/Hazard3d/build/CMakeFiles/Hazard3d.dir
+/workspaces/Hazard3d/build/CMakeFiles/edit_cache.dir
+/workspaces/Hazard3d/build/CMakeFiles/rebuild_cache.dir

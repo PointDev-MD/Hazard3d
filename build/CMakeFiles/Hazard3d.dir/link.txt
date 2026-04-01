@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Hazard3d.dir/src/main.cpp.o -o Hazard3d  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libGLEW.so 
